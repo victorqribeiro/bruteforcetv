@@ -7,10 +7,10 @@ Well, I'm staying in this hotel and I'm bored. Let's see if we can brute force t
 
 ## Tools
 
-adb
-[scrcpy](https://github.com/Genymobile/scrcpy)
-[sure](https://play.google.com/store/apps/details?id=com.tekoia.sure.activities&hl=en_US)
-[pyautogui](https://pypi.org/project/PyAutoGUI/)
+adb  
+[scrcpy](https://github.com/Genymobile/scrcpy)  
+[sure](https://play.google.com/store/apps/details?id=com.tekoia.sure.activities&hl=en_US)  
+[pyautogui](https://pypi.org/project/PyAutoGUI/)  
 Phone - with IR(Infra Red) capabilities.
 
 ## Method
