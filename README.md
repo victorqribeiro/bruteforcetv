@@ -51,3 +51,5 @@ for i in range(10000): #0 - 9999
 ```
 
 The code is very simple. Given that we are seeing our phone screen on our laptop, all we need to do is map a number on the remote control to a location on the screen, then just run a pyautogui script to automaticy click on the proper numbers as the attack goes on. First it's going to click 0000, then 0001, 0002... so on and so forth. Very basic stuff. The (x,y) on the code above means that you should fill in with the x and y coordinates of the buttons on your screen. You can do something more robust, passing the image of the button and having pyautogui searching it for you, but we are doing things quite simple today.
+
+![tv](IMG_20191121_001530.jpg)
